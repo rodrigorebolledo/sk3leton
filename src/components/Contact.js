@@ -18,11 +18,8 @@ const Contact = () => (
         </div>
         <div className="col-lg-4 mr-auto text-center">
           <i className="fas fa-envelope fa-3x mb-3 text-muted" />
-          <a
-            className="d-block"
-            href="mailto:rodrigo.rebolledo.rozas@gmail.com"
-          >
-            rodrigo.rebolledo.rozas@gmail.com
+          <a className="d-block" href="mailto:hola@sk3leton.com">
+            hola@sk3leton.com
           </a>
         </div>
       </div>
